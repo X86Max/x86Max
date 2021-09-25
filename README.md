@@ -7,5 +7,5 @@ I'm Max. I'm a not so good programmer.
 - ⚡ Fun fact: 2+2 = 4
 
 
-![Max GitHub stats](https://github-readme-stats.vercel.app/api?username=X86Max&show_icons=true&theme=synthwave)
+![Max GitHub stats](https://github-readme-stats.vercel.app/api?username=X86Max&show_icons=true&theme=radical)
 
