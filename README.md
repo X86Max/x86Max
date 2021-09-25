@@ -9,3 +9,6 @@ I'm Max. I'm a not so good programmer.
 
 ![Max GitHub stats](https://github-readme-stats.vercel.app/api?username=X86Max&show_icons=true&theme=radical)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
